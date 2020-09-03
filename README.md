@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     👋 Hi, I'm Guillermo call me "G-mo" for short.
-    <br /><br />✨ I'm a FrontEnd developer passionate about (hawaiian) pizza
+    <br /><br />✨ I'm a FrontEnd developer passionate about (pineapple) pizza
     and design. <br /><br />☕️ Wanna chat? Don't be shy!<br />
     <a href="https://twitter.com/pineapplegiant">Twitter</a><br />
     <a href="https://www.pineapplegiant.com/">Personal Site</a>
