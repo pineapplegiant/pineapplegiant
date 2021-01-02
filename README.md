@@ -10,14 +10,15 @@
 
 <details>
   <summary><b>🔬 Bio</b></summary>
-  I'm a huge nerd and when I'm not coding, you'll find me making pizza, playing
-  on my switch, or trying to read 3 books at once. I've interned as a software engineer at both Intel
-  and Workiva, where I wrote tests, technical documentation, and web code amongst other things.
+  I'm a javascript developer and UX enthusiast passionate about design systems and web accessibility.  React is my frontend framework of choice–if I'm not keeping it vanilla, and Neovim my editor of choice. 
+  When I'm not coding, I thoroughly enjoy making and eating (hawaiian) pizza, playing on my switch, and reading about philosophy or being a better cook. I've interned as a software engineer at both Intel
+  and Workiva, where I wrote tests, technical documentation, and web code amongst many other things.
 </details>
 
 <details>
-  <summary><b>🔭 Goals for 2020</b></summary>
-  👨‍💻 I'm want to completely redesign my personal website to start blogging!!<br />I'm
-  also hoping to learn react & react-native. I want to make a pizza app to help teach people
-  the art of pizza making at home 🍕🥰
+  <summary><b>🔭 Goals for 2021</b></summary>
+  <ul>
+    <li>🕸👓 Finish my personal portfolio redesign and start blogging!!</li>
+    <li>👨‍💻 Acquire a new developer position</li>
+  </ul>
 </details>
