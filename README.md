@@ -18,9 +18,11 @@ I currently work at [Searchspring](https://searchspring.com/) as an Implementati
 </details>
 
 <details>
-  <summary><b>🔭 Goals for 2021</b></summary>
+  <summary><b>🔭 Goals for 2022</b></summary>
   <ul>
-    <li style="text-decoration: line-through;">👨‍💻 Acquire a new developer position</li>
     <li>🕸👓 Finish my personal portfolio redesign and start blogging!!</li>
+    <li>Finish Spaceduck</li>
+    <li>Go completely in on native Neovim LSP and Treesitter</li>
+    <li>Build stuff in React & ThreeJS</li>
   </ul>
 </details>
