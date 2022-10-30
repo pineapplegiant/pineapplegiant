@@ -22,9 +22,9 @@ I currently work at [Searchspring](https://searchspring.com/) as an Implementati
   <ul>
     <li>🕸👓 Finish my personal portfolio redesign and start blogging!!</li>
     <li>Finish Spaceduck</li>
-    <li>Go completely in on native Neovim LSP and Treesitter</li>
-    <li>Build stuff in React & ThreeJS</li>
     <li>Start streaming??</li>
     <li>Play with music & make some lofi beats</li>
+    <li><s>Build stuff in React</s> & ThreeJS</li>
+    <li><s>Go completely in on native Neovim LSP and Treesitter</s></li>
   </ul>
 </details>
