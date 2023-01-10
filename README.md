@@ -18,13 +18,10 @@ I currently work at [Searchspring](https://searchspring.com/) as an Implementati
 </details>
 
 <details>
-  <summary><b>🔭 Goals for 2022</b></summary>
+  <summary><b>🔭 Goals for 2023</b></summary>
   <ul>
-    <li>🕸👓 Finish my personal portfolio redesign and start blogging!!</li>
-    <li>Finish Spaceduck</li>
-    <li>Start streaming??</li>
-    <li>Play with music & make some lofi beats</li>
-    <li><s>Build stuff in React</s> & ThreeJS</li>
-    <li><s>Go completely in on native Neovim LSP and Treesitter</s></li>
+    <li>Learn how to make electronic music</li>
+    <li>Start blogging on my Personal Site</li>
+    <li>Finish designing Spaceduck and update lua neovim port 🚀🦆</li>
   </ul>
 </details>
