@@ -11,8 +11,8 @@
 <details>
   <summary><b>🔬 Bio</b></summary>
   I'm a javascript developer and UX enthusiast passionate about design systems and web accessibility.  React is my frontend library of choice–if I'm not keeping it vanilla, and Neovim my editor of choice. 
-  When I'm not coding, I thoroughly enjoy making and eating (hawaiian) pizza, playing on my nintendo switch, and reading or learning about philosophy. I've interned as a software engineer at both Intel
-  and Workiva, where I wrote tests, technical documentation, and web code amongst many other things.
+  When I'm not coding, I thoroughly enjoy making and eating (hawaiian) pizza, playing on my nintendo switch and PC, and learning about philosophy. I've interned as a software engineer at both Intel
+  and Workiva and have worked as a Frontend Engineer for Searchspring, where I wrote web code amongst many other things.
 </details>
 
 <details>
